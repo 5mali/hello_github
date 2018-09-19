@@ -1,4 +1,5 @@
-#paatli modified using ssh
+#paatli modified using gitbash
+#paatli modified using bash
 
 #seti modified again using ssh login
 #seti modified this again
